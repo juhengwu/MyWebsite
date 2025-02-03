@@ -1,0 +1,45 @@
+/* 全局样式：去除默认边距 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 设置 body，让内容居中对齐 */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;  /* 让内容垂直居中 */
+    background-color: #f8f8f8; /* 背景色，可以修改 */
+}
+
+/* Logo 容器 */
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;  /* 让 logo 区域适应屏幕宽度 */
+    margin-top: 20px; /* 控制与上方内容的间距 */
+}
+
+/* Logo 图片 */
+.logo img {
+    width: 280px; /* 你可以调整这个值，比如 50px 或 100px */
+    height: auto; /* 保持比例缩放 */
+    transform: skewX(-15deg); /* 让图片倾斜 15 度，类似斜体效果 */
+    transition: transform 0.3s ease; /* 添加过渡动画，让 hover 更流畅 */
+}
+
+/* 当鼠标悬停在 Logo 上时，稍微放大 */
+.logo img:hover {
+    transform: skewX(-15deg) scale(1.1);
+}
+
+/* 响应式设计：在小屏幕上缩小 Logo */
+@media (max-width: 768px) {
+    .logo img {
+        width: 60px; /* 在小屏幕上缩小 Logo */
+    }
+}
