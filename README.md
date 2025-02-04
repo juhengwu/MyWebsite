@@ -1,6 +1,9 @@
 # Juheng Wu - Personal Website
 
 This is the source code for my personal website, a clean, minimalist, and visually engaging project showcasing video backgrounds and smooth interactions. Simply clone the repository and make your own website!
+[Click Here to checkout！](https://juhengwu.github.io/MyWebsite-v2/)
+
+
 ![Screenshot](screenshot.png)
 ![image](https://github.com/user-attachments/assets/3888cae9-22d5-4445-ba60-2dc127c8014c)
 ![image](https://github.com/user-attachments/assets/f76ef414-c6f8-4db2-80cb-bc407ba3788a)
