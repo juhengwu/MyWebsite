@@ -1,9 +1,9 @@
 # Juheng Wu - Personal Website
 
-This is the source code for Juheng Wu's personal website, a clean, minimalist, and visually engaging project showcasing video backgrounds and smooth interactions.
+This is the source code for my personal website, a clean, minimalist, and visually engaging project showcasing video backgrounds and smooth interactions.
 
-## Demo
 ![Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/fcbebcf8-6ee5-4d73-9c3b-9d6296e4f4f0)
 
 ## Features
 
@@ -38,6 +38,11 @@ This is the source code for Juheng Wu's personal website, a clean, minimalist, a
 
 ## License
 This project is open source and available under the MIT License.
+
+## References
+- The clean design is inspired by MEDIASTORM
+- Videos: pixabay
+- Template for Resume: github.com/sproogen/modern-resume-theme
 
 ## Author
 Created by 
