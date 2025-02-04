@@ -1,10 +1,10 @@
 # Juheng Wu - Personal Website
 
-This is the source code for my personal website, a clean, minimalist, and visually engaging project showcasing video backgrounds and smooth interactions.
-
+This is the source code for my personal website, a clean, minimalist, and visually engaging project showcasing video backgrounds and smooth interactions. Simply clone the repository and make your own website!
 ![Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/3888cae9-22d5-4445-ba60-2dc127c8014c)
+![image](https://github.com/user-attachments/assets/f76ef414-c6f8-4db2-80cb-bc407ba3788a)
 ![image](https://github.com/user-attachments/assets/fcbebcf8-6ee5-4d73-9c3b-9d6296e4f4f0)
-
 ## Features
 
 - **Video Background:** A full-screen video background enhances the visual appeal of the landing page.
@@ -41,8 +41,8 @@ This project is open source and available under the MIT License.
 
 ## References
 - The clean design is inspired by MEDIASTORM
-- Videos: pixabay
-- Template for Resume: github.com/sproogen/modern-resume-theme
+- Thanks for the amazoning videos: pixabay
+- The best design of Template for Resume: github.com/sproogen/modern-resume-theme
 
 ## Author
 Created by 
